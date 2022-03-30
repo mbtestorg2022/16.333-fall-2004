@@ -5,6 +5,7 @@ description: 'Summary of the topics covered in lecture:
   validation of various models of dynamic aircraft.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-333-aircraft-stability-and-control-fall-2004/212c550726b27fcf8925ed1cfcf2cca7_lecture_17_sys_2.pdf
 file_type: application/pdf
+parent_uid: 12a1aaf9-be7a-ca1d-756d-c7f978d7513c
 resourcetype: Document
 title: lecture_17_sys_2.pdf
 uid: 212c5507-26b2-7fcf-8925-ed1cfcf2cca7

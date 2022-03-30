@@ -6,6 +6,7 @@ description: 'Summary of the topics covered in lecture:
   linear algebra in action.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-333-aircraft-stability-and-control-fall-2004/28b7f94207968c91ade88155ea9c5b00_lecture_6.pdf
 file_type: application/pdf
+parent_uid: 12a1aaf9-be7a-ca1d-756d-c7f978d7513c
 resourcetype: Document
 title: lecture_6.pdf
 uid: 28b7f942-0796-8c91-ade8-8155ea9c5b00

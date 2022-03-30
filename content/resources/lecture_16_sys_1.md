@@ -7,6 +7,7 @@ description: 'Summary of the topics covered in lecture:
   modals.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-333-aircraft-stability-and-control-fall-2004/b36a3809af23f539b20cd26606c60e6e_lecture_16_sys_1.pdf
 file_type: application/pdf
+parent_uid: 12a1aaf9-be7a-ca1d-756d-c7f978d7513c
 resourcetype: Document
 title: lecture_16_sys_1.pdf
 uid: b36a3809-af23-f539-b20c-d26606c60e6e
